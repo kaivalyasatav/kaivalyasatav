@@ -1,6 +1,4 @@
-# Hi there, I'm Kaivalya Satav 👋
-
-🚀 **Data Scientist | Cloud Data Engineer | AI/ML Enthusiast**
+![Kaivalya Satav](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kaivalya%20Satav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Cloud%20Data%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18&descColor=a78bfa)
 
 Welcome to my GitHub! I am deeply passionate about building scalable data pipelines, deriving actionable insights through analytics, and designing intelligent machine learning models.
 
@@ -64,7 +62,6 @@ const kaivalya = {
     ↳ Building state-of-the-art GenAI applications using Hugging Face and LangChain.
 *   **[Agentic AI Workflows](https://github.com/kaivalyasatav/AI-Automation-and-Agentic-AI-Using-n8n)**
     ↳ Designing and automating intelligent, tool-using AI workflows leveraging n8n.
-
 
 
 <div align="center">
