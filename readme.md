@@ -54,14 +54,6 @@ const kaivalya = {
 *   **[Agentic AI Workflows](https://github.com/kaivalyasatav/AI-Automation-and-Agentic-AI-Using-n8n)**
     ↳ Designing and automating intelligent, tool-using AI workflows leveraging n8n.
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaivalyasatav&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Kaivalya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaivalyasatav&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<br>
 
 <div align="center">
   <i>✨ Let's build something amazing together! Feel free to explore my repositories or reach out. ✨</i>
